@@ -2,18 +2,18 @@
 
 ![Image Alt Text](./assets/Web%20Developer..png)
 
-# Hi there, I'm Soyeb Suvo! 👋
+# Hi there, I'm Md Soyeb Been Hasan! 👋
 
 Hi, I am Soyeb. I am a junior MERN Stack Develper.I have been working in this sector for a year. I want to build up my career in this sector.
 
 
 ## 🔧 Skills & Technologies
 
-- **Frontend:** React.js, HTML, CSS, JavaScript
+- **Frontend:** React.js, TailwindCSS, typescript
 - **Backend:** Node.js, Express.js
 - **Database:** MongoDB
 - **Tools:** Git, GitHub, VS Code
-- **Other:** API, Tailwind css, Material-UI
+- **Other:** API, Material-UI, DaisyUI
 
 ## 🔧 Technologies what i know
 
